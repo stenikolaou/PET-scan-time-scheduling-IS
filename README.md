@@ -6,7 +6,7 @@ was developed in Java programming language, using REST Web Services (Jersey) and
 * Database: MySQL
 
 # Login screenshot
-![](Images/RentalLogin.png)
+![](Images/Picture1.png)
 
 # ControlPanel screenshot
 ![](Images/AdminControlPanel.png)
